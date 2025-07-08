@@ -24,4 +24,4 @@
 
 极速播放，无缓冲
 我们采用优化的技术架构，确保所有视频都能极速加载，无缓冲。无论你使用电脑、手机还是平板，都能流畅观看，完美适配各种设备。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/xlin156/234566 ）</span>
